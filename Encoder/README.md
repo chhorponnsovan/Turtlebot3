@@ -46,6 +46,7 @@ PWM Config
 - PWM Channel Left : 0
 - PWM Channel Right: 0
 
+For more info about the schematic check schematic.png
 
 
 

@@ -46,7 +46,7 @@ PWM Config
 - PWM Channel Left : 0
 - PWM Channel Right: 0
 
-For more info about the schematic check schematic.png
+For more info about the schematic check (Esp32 30 pin diagram.pdf)
 
 
 

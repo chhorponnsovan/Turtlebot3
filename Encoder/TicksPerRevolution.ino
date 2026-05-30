@@ -3,8 +3,8 @@ const int encoderL_A = 23;
 const int encoderL_B = 22;
 
 // --- Right Encoder Pins ---
-const int encoderR_A = 35;
-const int encoderR_B = 34;
+const int encoderR_A = 26;
+const int encoderR_B = 25;
 
 // Use 'volatile' for variables changed inside interrupts
 volatile long pulseCountL = 0;

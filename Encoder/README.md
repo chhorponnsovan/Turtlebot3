@@ -18,13 +18,13 @@
 Wheel Diameter : 0.069 m
 
 
-Ticks per revolution : $$(410 \times 2)$$ tick/rev
+Ticks per revolution : $$(374 \times 2)$$ tick/rev
 
 
 Wheel cirfumference : $$\pi \times 0.069m$$ 
 
 
-Meters Per tick = $$0.069/(410 \times 2)$$
+Meters Per tick = $$0.069/(374 \times 2)$$
 
 
 Right wheel correction PWM = $$1.0/1.015$$ (not sure)

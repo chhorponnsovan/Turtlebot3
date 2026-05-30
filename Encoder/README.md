@@ -12,7 +12,9 @@
 
 
 
-## **Wheels and Encoder spec**
+## **Wheels and Encoder specification**
+
+
 Wheel Diameter : 0.069 m
 
 
